@@ -24,21 +24,29 @@
 
 ## Coefficients constants
 ### Vecteurs signés
+- Développé par Clément
+- Compilé et simulé par Alexandre, Julien
 - Exécuter la commande
 ```sh
    do vect.do
    ```
 ### Vecteurs non-signés
+- Développé par Clément
+- Compilé et simulé par Alexandre, Julien
 - Exécuter la commande
 ```sh
    do unsigned_vect.do
    ```
 ### Entiers
+- Développé par Julien
+- Compilé et simulé par Alexandre, Clément
 - Exécuter la commande
 ```sh
    do integer.do
    ```
 ### Entiers [0, 255]
+- Développé par Alexandre
+- Compilé et simulé par Julien, Clément
 - Exécuter la commande
 ```sh
    do integer_range.do
@@ -47,18 +55,26 @@
 
 ## Coefficients en entrée
 ### Vecteurs signés
+- Développé par Clément
+- Compilé et simulé par Alexandre, Julien
 ```sh
    do vect_in.do
    ```
 ### Vecteurs non-signés
+- Développé par Clément
+- Compilé et simulé par Alexandre, Julien
 ```sh
    do unsigned_vect_in.do
    ```
 ### Entiers
+- Développé par Julien
+- Compilé et simulé par Alexandre, Clément
 ```sh
    do integer_in.do
    ```
 ### Entiers [0, 255]
+- Développé par Alexandre
+- Compilé et simulé par Julien, Clément
 ```sh
    do integer_range_in.do
    ```
