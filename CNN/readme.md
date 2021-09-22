@@ -7,7 +7,7 @@
         <li><a href="#vecteurs-signés">Vecteurs signés</a></li>
         <li><a href="#vecteurs-non-signés">Vecteurs non-signés</a></li>
         <li><a href="#entiers">Entiers</a></li>
-        <li><a href="#entiers-[0,-255]">Entiers [0, 255]</a></li>
+        <li><a href="#entiers-0-255]">Entiers [0, 255]</a></li>
       </ul>
     </li>
     <li>
