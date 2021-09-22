@@ -1,5 +1,5 @@
-vcom -93 mes_types.vhd 
-vcom -93 entree_vecteur.vhd
+vcom -93 pack_types.vhd 
+vcom -93 vect_in.vhd
 
 vsim -gui work.vect_cnn
 force -freeze sim:/vect_cnn/d0 9'h002 0
