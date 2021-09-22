@@ -24,9 +24,25 @@
 
 ## Coefficients constants
 ### Vecteurs signés
+- Exécuter la commande
+```sh
+   do vect.do
+   ```
 ### Vecteurs non-signés
+- Exécuter la commande
+```sh
+   do unsigned_vect.do
+   ```
 ### Entiers
+- Exécuter la commande
+```sh
+   do integer.do
+   ```
 ### Entiers [0, 255]
+- Exécuter la commande
+```sh
+   do integer_range.do
+   ```
 
 
 ## Coefficients en entrée
