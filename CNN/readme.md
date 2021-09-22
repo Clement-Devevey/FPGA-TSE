@@ -4,8 +4,8 @@
     <li>
       <a href="#coefficients-constants">Coefficients constants</a>
       <ul>
-        <li><a href="#vecteurs-signes">Vecteurs signés</a></li>
-        <li><a href="#vecteurs-non-signes">Vecteurs non-signés</a></li>
+        <li><a href="#vecteurs-signés">Vecteurs signés</a></li>
+        <li><a href="#vecteurs-non-signés">Vecteurs non-signés</a></li>
         <li><a href="#entiers">Entiers</a></li>
         <li><a href="#entier">Entiers [0, 255]</a></li>
       </ul>
