@@ -47,6 +47,18 @@
 
 ## Coefficients en entrée
 ### Vecteurs signés
+```sh
+   do vect_in.do
+   ```
 ### Vecteurs non-signés
+```sh
+   do unsigned_vect_in.do
+   ```
 ### Entiers
+```sh
+   do integer_in.do
+   ```
 ### Entiers [0, 255]
+```sh
+   do integer_range_in.do
+   ```
