@@ -8,9 +8,14 @@ package pack_types is
 CONSTANT TAILLE: integer := 9;
 CONSTANT DIXHUIT : integer := 18;
 CONSTANT VINGT : integer := 20;
+
 SUBTYPE neufBits IS signed(TAILLE-1 downto 0);
 SUBTYPE dixHuitBits IS signed(2*TAILLE-1 downto 0);
 SUBTYPE vingtBits IS signed(2*(TAILLE + 1) -1 downto 0);
+
+SUBTYPE unsignedNeufBits IS unsigned(TAILLE-1 downto 0);
+SUBTYPE unsignedDixHuitBits IS unsigned(2*TAILLE-1 downto 0);
+SUBTYPE unsignedVingtBits IS unsigned(2*(TAILLE + 1) -1 downto 0);
 
 CONSTANT interval_min: integer := 0;
 CONSTANT interval_max: integer := 255;
