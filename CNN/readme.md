@@ -1,27 +1,23 @@
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Table des matières</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Coefficients constants</a>
+      <a href="#abouthproeh">Coefficients constants</a>
       <ul>
         <li><a href="#built-with">Vecteurs signés</a></li>
-        <li><a href="#built-with">Vecteurs signés</a></li>
-        <li><a href="#built-with">Vecteurs signés</a></li>
-        <li><a href="#built-with">Vecteurs signés</a></li>
-    <\ul>
+        <li><a href="#built-with">Vecteurs non-signés</a></li>
+        <li><a href="#built-with">Entiers</a></li>
+        <li><a href="#built-with">Entiers [0, 255]</a></li>
+      <\ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#abouthproeh">Coefficients en entrée</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+        <li><a href="#built-with">Vecteurs signés</a></li>
+        <li><a href="#built-with">Vecteurs non-signés</a></li>
+        <li><a href="#built-with">Entiers</a></li>
+        <li><a href="#built-with">Entiers [0, 255]</a></li>
+      <\ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
