@@ -2,7 +2,7 @@
   <summary>Table des matières</summary>
   <ol>
     <li>
-      <a href="#abouthproeh">Coefficients constants</a>
+      <a href="#Coefficients constants">Coefficients constants</a>
       <ul>
         <li><a href="#built-with">Vecteurs signés</a></li>
         <li><a href="#built-with">Vecteurs non-signés</a></li>
@@ -21,3 +21,9 @@
     </li>
   </ol>
 </details>
+
+### Coefficients constants
+## Vecteurs signés
+## Vecteurs non-signés
+## Entiers
+## Entiers [0, 255]
