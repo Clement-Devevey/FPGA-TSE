@@ -21,12 +21,20 @@
     </li>
   </ol>
 </details>
-<br></br>
-<br></br>
-## Coefficients constants
 
-<p> Bla Bla </p>
-<p> Bla Bla </p><p> Bla Bla </p><p> Bla Bla </p><p> Bla Bla </p><p> Bla Bla </p><p> Bla Bla </p><p> Bla Bla </p>
+## Coefficients constants
+- Bla Bla
+- vzv
+- v
+- zve
+- a
+- a
+- a
+- a
+- a
+- a
+- a
+
 ### Vecteurs signés
 ### Vecteurs non-signés
 ### Entiers
