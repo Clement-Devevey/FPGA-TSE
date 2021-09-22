@@ -57,24 +57,28 @@
 ### Vecteurs signés
 - Développé par Clément
 - Compilé et simulé par Alexandre, Julien
+- Exécuter la commande
 ```sh
    do vect_in.do
    ```
 ### Vecteurs non-signés
 - Développé par Clément
 - Compilé et simulé par Alexandre, Julien
+- Exécuter la commande
 ```sh
    do unsigned_vect_in.do
    ```
 ### Entiers
 - Développé par Julien
 - Compilé et simulé par Alexandre, Clément
+- Exécuter la commande
 ```sh
    do integer_in.do
    ```
 ### Entiers [0, 255]
 - Développé par Alexandre
 - Compilé et simulé par Julien, Clément
+- Exécuter la commande
 ```sh
    do integer_range_in.do
    ```
