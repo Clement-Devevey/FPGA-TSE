@@ -1,7 +1,7 @@
 library IEEE;
 use IEEE.STD_LOGIC_1164.all;
 use IEEE.numeric_std.all;
-use work.mes_types.all;
+use work.pack_types.all;
 
 package coeffs is
 

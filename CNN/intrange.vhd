@@ -1,4 +1,4 @@
-use work.mes_types.all;
+use work.pack_types.all;
 use work.coeffs.all;
 
 ENTITY convul_intrange IS

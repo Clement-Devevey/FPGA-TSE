@@ -21,4 +21,4 @@ CONSTANT interval_min: integer := 0;
 CONSTANT interval_max: integer := 255;
 SUBTYPE INT_RANGE IS integer range interval_min to interval_max;
 
-end package mes_types;
+end package pack_types;
