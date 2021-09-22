@@ -8,7 +8,7 @@
         <li><a href="#built-with">Vecteurs non-signés</a></li>
         <li><a href="#built-with">Entiers</a></li>
         <li><a href="#built-with">Entiers [0, 255]</a></li>
-      <\ul>
+      </ul>
     </li>
     <li>
       <a href="#abouthproeh">Coefficients en entrée</a>
@@ -17,7 +17,7 @@
         <li><a href="#built-with">Vecteurs non-signés</a></li>
         <li><a href="#built-with">Entiers</a></li>
         <li><a href="#built-with">Entiers [0, 255]</a></li>
-      <\ul>
+      </ul>
     </li>
   </ol>
 </details>
