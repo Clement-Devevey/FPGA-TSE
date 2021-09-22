@@ -22,8 +22,8 @@
   </ol>
 </details>
 
-### Coefficients constants
-## Vecteurs signés
-## Vecteurs non-signés
-## Entiers
-## Entiers [0, 255]
+## Coefficients constants
+### Vecteurs signés
+### Vecteurs non-signés
+### Entiers
+### Entiers [0, 255]
