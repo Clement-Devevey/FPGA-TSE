@@ -1,4 +1,3 @@
-vcom -93 pack_types.vhd 
 vcom -93 integer_conv_in.vhd
 
 vsim -gui work.integer_conv_in
