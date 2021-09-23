@@ -52,6 +52,10 @@
 ```sh
    do integer_conv.do
    ```
+- Résultats attendus : 
+
+![alt text](https://github.com/alexandre-humbert/FPGA-TSE/blob/main/sim_images/resultat_integer_conv.png?raw=true)
+   
 ### Entiers [0, 255]
 - Développé par Alexandre
 - Compilé et simulé par Julien, Clément
@@ -92,6 +96,10 @@
 ```sh
    do integer_conv_in.do
    ```
+- Résultats attendus : 
+
+![alt text](https://github.com/alexandre-humbert/FPGA-TSE/blob/main/sim_images/resultat_integer_conv_in.png?raw=true)
+
 ### Entiers [0, 255]
 - Développé par Alexandre
 - Compilé et simulé par Julien, Clément
