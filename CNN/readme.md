@@ -30,6 +30,10 @@
 ```sh
    do vect.do
    ```
+- Résultats attendus : 
+
+![alt text](https://github.com/alexandre-humbert/FPGA-TSE/blob/main/sim_images/resultat_vecto_do.png?raw=true)
+
 ### Vecteurs non-signés
 - Développé par Clément
 - Compilé et simulé par Alexandre, Julien
