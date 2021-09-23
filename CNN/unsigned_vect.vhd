@@ -13,7 +13,7 @@ end vect_cnn;
 architecture arch of vect_cnn is
     -- Fonction qui additionne a b et c --
     function add(a,b,c : unsignedDixHuitBits) return unsigedVingtBits is
-        variable d : unsigedVingtBits;
+        variable d : unsignedVingtBits;
     begin
         return resize(a, res'length) + b + c;
     end function;
@@ -25,9 +25,9 @@ architecture arch of vect_cnn is
         return a*b;
     end function;
 
-    -- Fonction qui utilise l'addition et la multiplication pour réaliser la convolution --
-    function conv(a,b,c : unsignedNeufBits) return unsigedVingtBits is
-        variable d : unsigedVingtBits;
+    -- Fonction qui utilise l'addition et la multiplication pour rÃ©aliser la convolution --
+    function conv(a,b,c : unsignedNeufBits) return unsignedVingtBits is
+        variable d : unsignedVingtBits;
     begin
         return add(mult(a,vect_c0), mult(b,vect_c1), mult(c,vect_c2));
     end function;
