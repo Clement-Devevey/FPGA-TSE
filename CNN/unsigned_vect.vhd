@@ -12,7 +12,7 @@ end vect_cnn;
 
 architecture arch of vect_cnn is
     -- Fonction qui additionne a b et c --
-    function add(a,b,c : unsignedDixHuitBits) return unsigedVingtBits is
+    function add(a,b,c : unsignedDixHuitBits) return unsignedVingtBits is
         variable d : unsignedVingtBits;
     begin
         return resize(a, res'length) + b + c;
