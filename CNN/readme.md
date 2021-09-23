@@ -90,7 +90,7 @@
 - Compilé et simulé par Alexandre, Clément
 - Exécuter la commande
 ```sh
-   do integer_in.do
+   do conv_integer_in.do
    ```
 ### Entiers [0, 255]
 - Développé par Alexandre
