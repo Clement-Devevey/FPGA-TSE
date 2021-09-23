@@ -1,5 +1,5 @@
-vcom -93 coeffs.vhd
 vcom -93 pack_types.vhd 
+vcom -93 coeffs.vhd
 vcom -93 vect.vhd
 
 vsim -gui work.vect_cnn
