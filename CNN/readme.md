@@ -63,7 +63,9 @@
 ```sh
    do integer_range.do
    ```
+- Résultats attendus : 
 
+![alt text](https://github.com/alexandre-humbert/FPGA-TSE/blob/main/sim_images/resultat_integer_range.PNG?raw=true)
 
 ## Coefficients en entrée
 ### Vecteurs signés
@@ -107,3 +109,6 @@
 ```sh
    do integer_range_in.do
    ```
+- Résultats attendus : 
+
+![alt text](https://github.com/alexandre-humbert/FPGA-TSE/blob/main/sim_images/resultat_integer_range_in.PNG?raw=true)
