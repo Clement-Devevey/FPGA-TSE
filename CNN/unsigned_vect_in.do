@@ -43,6 +43,6 @@ force -freeze sim:/vect_cnn/d2 9'h120 0
 
 run
 
-radix -decimal
+radix -ufixed
 
 echo (entree_1 * coefficient_1) + (entree_2 * coefficient_2) + (entree_3 * coefficient_3) = resultat
