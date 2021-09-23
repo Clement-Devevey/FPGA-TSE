@@ -1,5 +1,5 @@
 vcom -93 pack_types.vhd
-vcom -93 integer_range.vhd
+vcom -93 integer_range_in.vhd
 
 vsim -gui work.cnn_integer_range_in
 force -freeze sim:/cnn_integer_range_in/d0 2 0
