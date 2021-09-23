@@ -41,6 +41,10 @@
 ```sh
    do unsigned_vect.do
    ```
+- Résultats attendus : 
+
+![alt text](https://github.com/alexandre-humbert/FPGA-TSE/blob/main/sim_images/resultat_u_vecto_do.png?raw=true)
+
 ### Entiers
 - Développé par Julien
 - Compilé et simulé par Alexandre, Clément
