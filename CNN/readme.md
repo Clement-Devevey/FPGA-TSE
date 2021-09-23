@@ -43,7 +43,7 @@
    ```
 - Résultats attendus : 
 
-![alt text](https://github.com/alexandre-humbert/FPGA-TSE/blob/main/sim_images/resultat_u_vecto_do.png?raw=true)
+![alt text](https://github.com/alexandre-humbert/FPGA-TSE/blob/main/sim_images/resultat_u_vect_do.png?raw=true)
 
 ### Entiers
 - Développé par Julien
