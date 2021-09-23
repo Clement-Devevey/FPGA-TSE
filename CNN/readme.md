@@ -69,6 +69,11 @@
 ```sh
    do vect_in.do
    ```
+- Résultats attendus : 
+
+![alt text](https://github.com/alexandre-humbert/FPGA-TSE/blob/main/sim_images/resultat_vect_in.png?raw=true)
+   
+   
 ### Vecteurs non-signés
 - Développé par Clément
 - Compilé et simulé par Alexandre, Julien
