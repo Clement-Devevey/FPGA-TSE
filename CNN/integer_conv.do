@@ -35,6 +35,4 @@ force -freeze sim:/integer_conv/d2 5 0
 
 run
 
-radix decimal
-
 echo (entree_1 * coefficient_1) + (entree_2 * coefficient_2) + (entree_3 * coefficient_3) = resultat
