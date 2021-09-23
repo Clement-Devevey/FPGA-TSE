@@ -46,4 +46,3 @@ run
 radix -decimal
 
 echo (entree_1 * coefficient_1) + (entree_2 * coefficient_2) + (entree_3 * coefficient_3) = resultat
-© 2021 GitHub, Inc.
