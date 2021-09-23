@@ -21,9 +21,9 @@ view wave
 
 run
 
-force -freeze sim:/vect_cnn/d0 -1 0
-force -freeze sim:/vect_cnn/d1 -2 0
-force -freeze sim:/vect_cnn/d2 -2 0
+force -freeze sim:/vect_cnn/d0 9'h1FF 0
+force -freeze sim:/vect_cnn/d1 9'h1FE 0
+force -freeze sim:/vect_cnn/d2 9'h1FD 0
 
 run
 
