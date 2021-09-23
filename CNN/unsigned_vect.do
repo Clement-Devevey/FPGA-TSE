@@ -8,25 +8,25 @@ force -freeze sim:/vect_cnn/d1 9'h002 0
 force -freeze sim:/vect_cnn/d2 9'h002 0
 
 add wave -label entree_1 /vect_cnn/d0
-add wave -label coefficient_1 /pack_const/unsigned_vect_c0 
+add wave -label coefficient_1 /coeffs/unsigned_vect_c0 
 add wave -label entree_2 /vect_cnn/d1
-add wave -label coefficient_2 /pack_const/unsigned_vect_c1
+add wave -label coefficient_2 /coeffs/unsigned_vect_c1
 add wave -label entree_3 /vect_cnn/d2
-add wave -label coefficient_3 /pack_const/unsigned_vect_c2
+add wave -label coefficient_3 /coeffs/unsigned_vect_c2
 add wave -label resultat /vect_cnn/res
 view wave
 
 run
 
-force -freeze sim:/vect_cnn/d0 10#-1 0
-force -freeze sim:/vect_cnn/d1 10#-2 0
-force -freeze sim:/vect_cnn/d2 10#-2 0
+force -freeze sim:/vect_cnn/d0 9'h1FF 0
+force -freeze sim:/vect_cnn/d1 9'h1FE 0
+force -freeze sim:/vect_cnn/d2 9'h1FD 0
 
 run
 
-force -freeze sim:/vect_cnn/d0 9'h1FF 0
-force -freeze sim:/vect_cnn/d1 9'h1FF 0
-force -freeze sim:/vect_cnn/d2 9'h1FF 0
+force -freeze sim:/vect_cnn/d0 9'h1AF 0
+force -freeze sim:/vect_cnn/d1 9'h1BF 0
+force -freeze sim:/vect_cnn/d2 9'h1CF 0
 
 run
 
@@ -36,6 +36,6 @@ force -freeze sim:/vect_cnn/d2 9'h120 0
 
 run
 
-radix -decimal
+radix -ufixed
 
 echo (entree_1 * coefficient_1) + (entree_2 * coefficient_2) + (entree_3 * coefficient_3) = resultat
