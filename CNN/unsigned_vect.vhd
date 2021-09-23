@@ -29,7 +29,7 @@ architecture arch of vect_cnn is
     function conv(a,b,c : unsignedNeufBits) return unsignedVingtBits is
         variable d : unsignedVingtBits;
     begin
-        return add(mult(a,vect_c0), mult(b,vect_c1), mult(c,vect_c2));
+        return add(mult(a,unsigned_vect_c0), mult(b,unsigned_vect_c1), mult(c,unsigned_vect_c2));
     end function;
 
 begin
