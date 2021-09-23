@@ -50,7 +50,7 @@
 - Compilé et simulé par Alexandre, Clément
 - Exécuter la commande
 ```sh
-   do integer_conv_in.do
+   do integer_conv.do
    ```
 ### Entiers [0, 255]
 - Développé par Alexandre
